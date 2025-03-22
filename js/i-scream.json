@@ -1,0 +1,38 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "https://mateom43.github.io/Comp-1073-Lab4/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://mateom43.github.io/Comp-1073-Lab4/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+        "image": "https://mateom43.github.io/Comp-1073-Lab4/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Ice-Cream Xtra 1",
+        "calories": 310,
+        "type": "ice-cream",
+        "ingredients": ["Caramel Swirl", "Brownie Bits", "Vanilla Base"],
+        "image": "https://mateom43.github.io/Comp-1073-Lab4/images/ice-cream-xtra1.svg"
+    },{
+        "name": "Ice-Cream Xtra 2",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": ["Blueberry Sauce", "Cookie Crumbs", "Vanilla Base"],
+        "image": "https://mateom43.github.io/Comp-1073-Lab4/images/ice-cream-xtra2.svg"
+
+    }]
+}
